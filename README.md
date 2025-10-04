@@ -1,47 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio de Serviços - Reinaldo Santos Pereira</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #f8f9fa;
-    }
-    .hero {
-      background: #1B4F72;
-      color: #fff;
-      padding: 60px 20px;
-      text-align: center;
-    }
-    .hero h1 {
-      font-size: 2.5rem;
-    }
-    .card h5 {
-      color: #2E86C1;
-    }
-    /* Estiliza as listas de serviços dentro dos cards */
-    .card ul {
-        margin-bottom: 0;
-        padding-left: 20px;
-    }
-    footer {
-      background: #154360;
-      color: #fff;
-      text-align: center;
-      padding: 15px;
-      margin-top: 40px;
-    }
-    footer a {
-      color: #D6EAF8;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+ </head> <body> <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" href="#">Portfólio Reinaldo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Menu de Navegação">
